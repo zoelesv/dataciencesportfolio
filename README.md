@@ -14,13 +14,20 @@ Welcome to my data science portfolio! I am a **Data Scientist** with 4+ years of
 
 ---
 
-### 2. **Netflix Browsing Time Optimization**
+### 2. **Color Analysis Neural Net**
+- **Goal**: Classify facial images into their corresponding seasonal tones based on color theory.
+- **Tech Stack**: Python, Deep Learning, Neural Networks, Custom Triplet Loss, Computer Vision
+- **Results**: Achieved 74.47% accuracy on the initial dataset, with potential for improvement using a larger and more representative dataset.
+- **Details**: [GitHub Link](/Color_Analysis.ipynb)
+
+---
+
+### 3. **Netflix Browsing Time Optimization**
 - **Goal**: Minimize Netflix user’s browsing time by optimizing Match Score, Tile Size, Preview Length, and Preview Type.
 - **Tech Stack**: Python, A/B Testing, Factorial Design, F-tests, Partial F-tests
 - **Results**: Reduced browsing time to an average of 10.02 minutes with a 95% confidence interval.
 - **Details**: [GitHub Link](#)
 
----
 
 ## 🔹 Certifications & Courses
 - **Statistics** - MSDS
