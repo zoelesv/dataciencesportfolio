@@ -18,7 +18,7 @@ Welcome to my data science portfolio! I am a **Data Scientist** with 4+ years of
 - **Goal**: Classify facial images into their corresponding seasonal tones based on color theory.
 - **Tech Stack**: Python, Deep Learning, Neural Networks, Custom Triplet Loss, Computer Vision
 - **Results**: Achieved 74.47% accuracy on the initial dataset, with potential for improvement using a larger and more representative dataset.
-- **Details**: [GitHub Link](/Color_Analysis.ipynb)
+- **Details**: [Notebook](/Color_Analysis.ipynb)
 
 ---
 
@@ -26,10 +26,18 @@ Welcome to my data science portfolio! I am a **Data Scientist** with 4+ years of
 - **Goal**: Minimize Netflix user’s browsing time by optimizing Match Score, Tile Size, Preview Length, and Preview Type.
 - **Tech Stack**: Python, A/B Testing, Factorial Design, F-tests, Partial F-tests
 - **Results**: Reduced browsing time to an average of 10.02 minutes with a 95% confidence interval.
-- **Details**: [GitHub Link](#)
+- **Details**: [Notebook](/netflix_ab_experiments.ipynb)
+
+---
+
+### 4. **E-commerce Cart Add-On Conversion Forecast**
+- **Goal**: Predict the conversion rate for adding non-medical items to the cart and evaluate the potential impact of a proposed feature change on the e-commerce platform.
+- **Tech Stack**: SQL, Python, Time Series Analysis, Augmented Dickey-Fuller Test
+- **Results**: Forecast shows conversion rate reaching 20% in 3 months, with an upward trend correlated to revenue gains. The proposed feature change by the Product Team could accelerate this trend by increasing visibility of non-medical items during checkout.
+- **Details**: [Report](/cart-add-ons-feature.pdf)
 
 
-## 🔹 Certifications & Courses
+## 🔹 Courses
 - **Statistics** - MSDS
 - **Advanced Machine Learning** - MSDS
 - **Deep Learning** - MSDS
